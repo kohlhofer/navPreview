@@ -71,9 +71,9 @@
 .icon-collapsed:before {
   content: "l";
 }
+.icon-home:before {
+  content: "e";
+}
 .icon-check:before {
   content: "m";
-}
-.icon-check-false:before {
-  content: "n";
 }
